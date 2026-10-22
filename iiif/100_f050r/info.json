@@ -1,0 +1,16 @@
+{
+ "@context": "http://iiif.io/api/image/2/context.json",
+ "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/100_f050r",
+ "protocol": "http://iiif.io/api/image",
+ "width": 3024,
+ "height": 4032,
+ "profile": [
+  "http://iiif.io/api/image/2/level0.json"
+ ],
+ "sizes": [
+  {
+   "width": 3024,
+   "height": 4032
+  }
+ ]
+}
