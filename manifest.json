@@ -1,0 +1,1787 @@
+{
+ "@context": "http://iiif.io/api/presentation/2/context.json",
+ "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/manifest.json",
+ "@type": "sc:Manifest",
+ "label": "Napoli, Biblioteca Nazionale, V.D.10 · ff. 25r–57r",
+ "description": "Pietro Elia, Summa in De inventione. Riproduzioni fotografiche, ff. 25r–57r.",
+ "metadata": [
+  {
+   "label": "Segnatura",
+   "value": "Napoli, Biblioteca Nazionale, V.D.10"
+  },
+  {
+   "label": "Carte",
+   "value": "ff. 25r–57r"
+  },
+  {
+   "label": "Immagini",
+   "value": "65"
+  }
+ ],
+ "viewingDirection": "left-to-right",
+ "viewingHint": "individuals",
+ "sequences": [
+  {
+   "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/sequence/normal",
+   "@type": "sc:Sequence",
+   "label": "Ordine di foliazione",
+   "canvases": [
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/1",
+     "@type": "sc:Canvas",
+     "label": "f. 25r",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/1/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/1",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/050_f025r/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/050_f025r",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/2",
+     "@type": "sc:Canvas",
+     "label": "f. 25v",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/2/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/2",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/051_f025v/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/051_f025v",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/3",
+     "@type": "sc:Canvas",
+     "label": "f. 26r",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/3/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/3",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/052_f026r/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/052_f026r",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/4",
+     "@type": "sc:Canvas",
+     "label": "f. 26v",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/4/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/4",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/053_f026v/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/053_f026v",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/5",
+     "@type": "sc:Canvas",
+     "label": "f. 27r",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/5/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/5",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/054_f027r/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/054_f027r",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/6",
+     "@type": "sc:Canvas",
+     "label": "f. 27v",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/6/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/6",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/055_f027v/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/055_f027v",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/7",
+     "@type": "sc:Canvas",
+     "label": "f. 28r",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/7/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/7",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/056_f028r/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/056_f028r",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/8",
+     "@type": "sc:Canvas",
+     "label": "f. 28v",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/8/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/8",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/057_f028v/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/057_f028v",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/9",
+     "@type": "sc:Canvas",
+     "label": "f. 29r",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/9/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/9",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/058_f029r/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/058_f029r",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/10",
+     "@type": "sc:Canvas",
+     "label": "f. 29v",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/10/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/10",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/059_f029v/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/059_f029v",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/11",
+     "@type": "sc:Canvas",
+     "label": "f. 30r",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/11/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/11",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/060_f030r/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/060_f030r",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/12",
+     "@type": "sc:Canvas",
+     "label": "f. 30v",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/12/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/12",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/061_f030v/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/061_f030v",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/13",
+     "@type": "sc:Canvas",
+     "label": "f. 31r",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/13/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/13",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/062_f031r/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/062_f031r",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/14",
+     "@type": "sc:Canvas",
+     "label": "f. 31v",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/14/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/14",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/063_f031v/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/063_f031v",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/15",
+     "@type": "sc:Canvas",
+     "label": "f. 32r",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/15/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/15",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/064_f032r/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/064_f032r",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/16",
+     "@type": "sc:Canvas",
+     "label": "f. 32v",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/16/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/16",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/065_f032v/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/065_f032v",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/17",
+     "@type": "sc:Canvas",
+     "label": "f. 33r",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/17/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/17",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/066_f033r/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/066_f033r",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/18",
+     "@type": "sc:Canvas",
+     "label": "f. 33v",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/18/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/18",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/067_f033v/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/067_f033v",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/19",
+     "@type": "sc:Canvas",
+     "label": "f. 34r",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/19/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/19",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/068_f034r/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/068_f034r",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/20",
+     "@type": "sc:Canvas",
+     "label": "f. 34v",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/20/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/20",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/069_f034v/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/069_f034v",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/21",
+     "@type": "sc:Canvas",
+     "label": "f. 35r",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/21/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/21",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/070_f035r/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/070_f035r",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/22",
+     "@type": "sc:Canvas",
+     "label": "f. 35v",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/22/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/22",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/071_f035v/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/071_f035v",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/23",
+     "@type": "sc:Canvas",
+     "label": "f. 36r",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/23/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/23",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/072_f036r/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/072_f036r",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/24",
+     "@type": "sc:Canvas",
+     "label": "f. 36v",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/24/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/24",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/073_f036v/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/073_f036v",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/25",
+     "@type": "sc:Canvas",
+     "label": "f. 37r",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/25/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/25",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/074_f037r/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/074_f037r",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/26",
+     "@type": "sc:Canvas",
+     "label": "f. 37v",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/26/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/26",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/075_f037v/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/075_f037v",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/27",
+     "@type": "sc:Canvas",
+     "label": "f. 38r",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/27/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/27",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/076_f038r/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/076_f038r",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/28",
+     "@type": "sc:Canvas",
+     "label": "f. 38v",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/28/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/28",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/077_f038v/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/077_f038v",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/29",
+     "@type": "sc:Canvas",
+     "label": "f. 39r",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/29/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/29",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/078_f039r/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/078_f039r",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/30",
+     "@type": "sc:Canvas",
+     "label": "f. 39v",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/30/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/30",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/079_f039v/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/079_f039v",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/31",
+     "@type": "sc:Canvas",
+     "label": "f. 40r",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/31/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/31",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/080_f040r/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/080_f040r",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/32",
+     "@type": "sc:Canvas",
+     "label": "f. 40v",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/32/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/32",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/081_f040v/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/081_f040v",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/33",
+     "@type": "sc:Canvas",
+     "label": "f. 41r",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/33/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/33",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/082_f041r/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/082_f041r",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/34",
+     "@type": "sc:Canvas",
+     "label": "f. 41v",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/34/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/34",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/083_f041v/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/083_f041v",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/35",
+     "@type": "sc:Canvas",
+     "label": "f. 42r",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/35/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/35",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/084_f042r/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/084_f042r",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/36",
+     "@type": "sc:Canvas",
+     "label": "f. 42v",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/36/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/36",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/085_f042v/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/085_f042v",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/37",
+     "@type": "sc:Canvas",
+     "label": "f. 43r",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/37/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/37",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/086_f043r/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/086_f043r",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/38",
+     "@type": "sc:Canvas",
+     "label": "f. 43v",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/38/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/38",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/087_f043v/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/087_f043v",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/39",
+     "@type": "sc:Canvas",
+     "label": "f. 44r",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/39/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/39",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/088_f044r/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/088_f044r",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/40",
+     "@type": "sc:Canvas",
+     "label": "f. 44v",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/40/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/40",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/089_f044v/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/089_f044v",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/41",
+     "@type": "sc:Canvas",
+     "label": "f. 45r",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/41/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/41",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/090_f045r/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/090_f045r",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/42",
+     "@type": "sc:Canvas",
+     "label": "f. 45v",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/42/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/42",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/091_f045v/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/091_f045v",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/43",
+     "@type": "sc:Canvas",
+     "label": "f. 46r",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/43/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/43",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/092_f046r/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/092_f046r",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/44",
+     "@type": "sc:Canvas",
+     "label": "f. 46v",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/44/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/44",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/093_f046v/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/093_f046v",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/45",
+     "@type": "sc:Canvas",
+     "label": "f. 47r",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/45/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/45",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/094_f047r/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/094_f047r",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/46",
+     "@type": "sc:Canvas",
+     "label": "f. 47v",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/46/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/46",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/095_f047v/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/095_f047v",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/47",
+     "@type": "sc:Canvas",
+     "label": "f. 48r",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/47/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/47",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/096_f048r/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/096_f048r",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/48",
+     "@type": "sc:Canvas",
+     "label": "f. 48v",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/48/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/48",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/097_f048v/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/097_f048v",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/49",
+     "@type": "sc:Canvas",
+     "label": "f. 49r",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/49/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/49",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/098_f049r/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/098_f049r",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/50",
+     "@type": "sc:Canvas",
+     "label": "f. 49v",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/50/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/50",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/099_f049v/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/099_f049v",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/51",
+     "@type": "sc:Canvas",
+     "label": "f. 50r",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/51/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/51",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/100_f050r/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/100_f050r",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/52",
+     "@type": "sc:Canvas",
+     "label": "f. 50v",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/52/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/52",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/101_f050v/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/101_f050v",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/53",
+     "@type": "sc:Canvas",
+     "label": "f. 51r",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/53/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/53",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/102_f051r/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/102_f051r",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/54",
+     "@type": "sc:Canvas",
+     "label": "f. 51v",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/54/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/54",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/103_f051v/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/103_f051v",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/55",
+     "@type": "sc:Canvas",
+     "label": "f. 52r",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/55/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/55",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/104_f052r/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/104_f052r",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/56",
+     "@type": "sc:Canvas",
+     "label": "f. 52v",
+     "width": 3024,
+     "height": 3904,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/56/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/56",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/105_f052v/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 3904,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/105_f052v",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/57",
+     "@type": "sc:Canvas",
+     "label": "f. 53r",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/57/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/57",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/106_f053r/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/106_f053r",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/58",
+     "@type": "sc:Canvas",
+     "label": "f. 53v",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/58/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/58",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/107_f053v/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/107_f053v",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/59",
+     "@type": "sc:Canvas",
+     "label": "f. 54r",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/59/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/59",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/108_f054r/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/108_f054r",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/60",
+     "@type": "sc:Canvas",
+     "label": "f. 54v",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/60/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/60",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/109_f054v/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/109_f054v",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/61",
+     "@type": "sc:Canvas",
+     "label": "f. 55r",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/61/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/61",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/110_f055r/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/110_f055r",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/62",
+     "@type": "sc:Canvas",
+     "label": "f. 55v",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/62/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/62",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/111_f055v/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/111_f055v",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/63",
+     "@type": "sc:Canvas",
+     "label": "f. 56r",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/63/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/63",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/112_f056r/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/112_f056r",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/64",
+     "@type": "sc:Canvas",
+     "label": "f. 56v",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/64/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/64",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/113_f056v/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/113_f056v",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    },
+    {
+     "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/65",
+     "@type": "sc:Canvas",
+     "label": "f. 57r",
+     "width": 3024,
+     "height": 4032,
+     "images": [
+      {
+       "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/65/annotation",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "on": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/canvas/65",
+       "resource": {
+        "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/114_f057r/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 3024,
+        "height": 4032,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://lorenzo-mss.github.io/ms.-Napoli-V.D.10/iiif/114_f057r",
+         "profile": "http://iiif.io/api/image/2/level0.json"
+        }
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
